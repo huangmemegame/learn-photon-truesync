@@ -2,9 +2,9 @@ using System;
 
 namespace TrueSync {
 
-    /**
-     *  @brief Truesync's {@link ICommunicator} implementation based on PUN. 
-     **/
+    /// <summary>
+    /// Truesync's ICommunicator implementation based on PUN.
+    /// </summary>
     public class PhotonTrueSyncCommunicator : ICommunicator {
 
         private LoadBalancingPeer loadBalancingPeer;
