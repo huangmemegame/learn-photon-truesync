@@ -1,2 +1,3 @@
 # learn-photon-truesync
-Learning how to use Photon TrueSync to create a Online Game.
+
+Learning how to use Photon TrueSync to create Online Games.
